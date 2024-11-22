@@ -16,6 +16,9 @@
     <loc>https://KUBDatalab.github.io/R-toolbox/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://KUBDatalab.github.io/R-toolbox/aio.html</loc>
+  </url>
+  <url>
     <loc>https://KUBDatalab.github.io/R-toolbox/barcharts.html</loc>
   </url>
   <url>
@@ -40,6 +43,9 @@
     <loc>https://KUBDatalab.github.io/R-toolbox/github-and-you.html</loc>
   </url>
   <url>
+    <loc>https://KUBDatalab.github.io/R-toolbox/images.html</loc>
+  </url>
+  <url>
     <loc>https://KUBDatalab.github.io/R-toolbox/index.html</loc>
   </url>
   <url>
@@ -56,6 +62,9 @@
   </url>
   <url>
     <loc>https://KUBDatalab.github.io/R-toolbox/instructor/LICENSE.html</loc>
+  </url>
+  <url>
+    <loc>https://KUBDatalab.github.io/R-toolbox/instructor/aio.html</loc>
   </url>
   <url>
     <loc>https://KUBDatalab.github.io/R-toolbox/instructor/barcharts.html</loc>
@@ -82,10 +91,19 @@
     <loc>https://KUBDatalab.github.io/R-toolbox/instructor/github-and-you.html</loc>
   </url>
   <url>
+    <loc>https://KUBDatalab.github.io/R-toolbox/instructor/images.html</loc>
+  </url>
+  <url>
     <loc>https://KUBDatalab.github.io/R-toolbox/instructor/index.html</loc>
   </url>
   <url>
+    <loc>https://KUBDatalab.github.io/R-toolbox/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
     <loc>https://KUBDatalab.github.io/R-toolbox/instructor/is-it-normal.html</loc>
+  </url>
+  <url>
+    <loc>https://KUBDatalab.github.io/R-toolbox/instructor/key-points.html</loc>
   </url>
   <url>
     <loc>https://KUBDatalab.github.io/R-toolbox/instructor/kmeans.html</loc>
@@ -148,7 +166,13 @@
     <loc>https://KUBDatalab.github.io/R-toolbox/instructor/which-distribution.html</loc>
   </url>
   <url>
+    <loc>https://KUBDatalab.github.io/R-toolbox/instructor-notes.html</loc>
+  </url>
+  <url>
     <loc>https://KUBDatalab.github.io/R-toolbox/is-it-normal.html</loc>
+  </url>
+  <url>
+    <loc>https://KUBDatalab.github.io/R-toolbox/key-points.html</loc>
   </url>
   <url>
     <loc>https://KUBDatalab.github.io/R-toolbox/kmeans.html</loc>

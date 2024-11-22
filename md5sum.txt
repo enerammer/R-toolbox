@@ -37,3 +37,4 @@
 "learners/setup.md" "9b1b924cf88e06b154562a92250fcb76" "site/built/setup.md" "2024-11-22"
 "poster/poster_dk.Rmd" "721a2b68eeb0b61308158bce41c6ae21" "site/built/poster_dk.md" "2024-11-22"
 "profiles/learner-profiles.md" "5fe5bf7537072422b91ed393ada03f9a" "site/built/learner-profiles.md" "2024-11-22"
+"renv/profiles/lesson-requirements/renv.lock" "3cd20548d3f1e465d883860cfaaee561" "site/built/renv.lock" "2024-11-22"
